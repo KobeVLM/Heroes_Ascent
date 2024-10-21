@@ -23,6 +23,6 @@ public class Game {
         }
 
         scanner.close();
-        System.out.println("Game over! Thanks for playing.");
+        System.out.println("Game over! Thanks for playing. Have a nice day!");
     }
 }
