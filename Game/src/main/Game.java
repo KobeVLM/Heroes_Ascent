@@ -18,6 +18,9 @@ public class Game {
             System.out.print("Enter choice: ");
             String command = scanner.nextLine();
 
+            // Clear the screen
+            util.ConsoleUtils.clearScreen();
+
             // Process player input
             isRunning = gameLogic.processInput(command);
         }

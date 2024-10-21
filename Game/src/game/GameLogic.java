@@ -1,5 +1,7 @@
 package game;
 
+import util.ConsoleUtils;
+
 public class GameLogic {
     public GameLogic() {
         // Initialize game state here if needed
