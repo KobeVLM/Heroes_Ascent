@@ -15,7 +15,7 @@ public class Game {
             gameLogic.displayMenu();
 
             // Get player input
-            System.out.print("Enter command: ");
+            System.out.print("Enter choice: ");
             String command = scanner.nextLine();
 
             // Process player input
